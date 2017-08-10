@@ -1,0 +1,12 @@
+preparation for 11.08
+
+1. amazon kinesis
+2 reordering is a visualization tool?
+3. used algo from Supervised Dimensionality Reduction on Streaming Data : 
+	* LDA
+	* single pass algo for example incremental LDA algo, 
+	* incremental IDR/ QR
+
+
+
+come to know about new tools : 1. talend 2. apache kafka

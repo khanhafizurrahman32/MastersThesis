@@ -1,0 +1,33 @@
+heat map, scatter plot, parallel coordinate -> visualization
+benchmarking paper
+calculate com
+quantitiative evaluation of algo/ streaming brench marking
+visualisation : later
+performance paralized
+algorithm : IOC, SAX
+
+date 21.07
+open problem :
+1. status stram dimension reduction
+2. data stream management slide share
+3. anek kisu paper marked kora ase next weeke bhaia sob kisu arrange kore dibe
+
+
+date 01.08
+comparability dimenstionality reduction on stream data (use existing algo for example PCA & clustering(if needed) )
+proof of concept : use own method for example em reordering
+travelling sales algo
+em reordering ( new thing to implement on the straming data)
+entropy minimization
+information loss/ gain
+measure calculate : entropy minimization, information loss/ gain
+
+technology : java, 
+look for pros/ cons based on application specific
+cpu utility, hardware resource
+benchmarking : 
+
+PCA goes for motivation step
+dataset : from a particular field
+
+
