@@ -1,0 +1,6 @@
+important notes:
+1. PCA should run on the training set
+2. bad use of pca is to prevent overfitting 
+
+clustering means reduce number of examples.
+dimensionality reduction means reduce number of dimensions
