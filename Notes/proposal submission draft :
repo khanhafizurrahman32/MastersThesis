@@ -1,0 +1,6 @@
+proposal submission draft :
+from paper : Data Stream Clustering: Challenges and Issues
+High dimensional data stream: There are high dimensional data sets (e.g. image processing, personal similarity, customer preferences clustering, network intrusion detection, wireless sensors network and generally time series data) which should be managed through the processing of data stream. In huge databases, data complexity can be increased by number of dimensions.
+
+time series data / time series databse
+clustering is also included
