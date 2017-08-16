@@ -7,6 +7,26 @@ preparation for 11.08
 	* single pass algo for example incremental LDA algo, 
 	* incremental IDR/ QR
 
-
+4. paper notes on Efficient Visualization of Large-scale Data Tables through Reordering and Entropy Minimization.
+5. dimensionality reduction are only helpful for visualisation?
+	answer by myself : nope, it also used for the compresssion data and also for speeding up the learning algo
+6. feature extraction/ feature selection :
+	feature extraction : Linear / Non linear -->
+							* Linear : Principle Component Analysis, Linear Discrement Analysis, Maximum Margerion Criterion
+							* Non-linear : Locally Linear Embedding (LLE), ISOMAP [30], Laplacian Eigenmaps 
 
 come to know about new tools : 1. talend 2. apache kafka
+from wikipedia most popular/used dimensionality reduction are : 
+1. PCA
+2. Kernel PCA
+3. Graph-based kernel PCA
+4. Linear discriminant analysis
+5. generalised discriminant analysis
+
+non-linear dimensionality reduction technique :
+1. Locally linear embedding
+2. stochastic neighbourhood embedding
+
+preparation for 18.08
+
+1. new algo for the feature selection (paper: Feature-Based Data Stream Clustering )
