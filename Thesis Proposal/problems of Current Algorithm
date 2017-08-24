@@ -6,3 +6,4 @@ Supervised Dimensionlaity Reduction on Streaming Data:
 In real world application, a complete training set might not be given beforehand. Traditional LDA algorithm may be useless because it requires all high dimensional data and all covariance matrices be kept in the memory and ipdated altogether.
 
 Limitation of ILDA :
+it is one-pass incremental LDA algorithm which can perform incremental dimensionality reduction but the limitation of this algorithm is it needs to solve a high dimensional 
