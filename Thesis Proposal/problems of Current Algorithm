@@ -1,0 +1,8 @@
+Supervised Dimensionlaity Reduction on Streaming Data:
+
+ Limitation of Traditional LDA: 
+  Traditional LDA is a generalized eigenvalue problem with within-class and between-class scatter matrices. These two matrices are computed in batch mode, which implies that we have collected all data in advance.
+
+In real world application, a complete training set might not be given beforehand. Traditional LDA algorithm may be useless because it requires all high dimensional data and all covariance matrices be kept in the memory and ipdated altogether.
+
+Limitation of ILDA :
