@@ -1,0 +1,45 @@
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Motivation}{3}{section.1.1}
+\contentsline {section}{\numberline {1.2}Goals of the thesis}{5}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Selection of Dataset}{5}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Define Data Model}{5}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Data Preprocessing}{7}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {1.2.4}Visualization}{7}{subsection.1.2.4}
+\contentsline {subsection}{\numberline {1.2.5}Evaluation}{7}{subsection.1.2.5}
+\contentsline {chapter}{\numberline {2}Related Work}{8}{chapter.2}
+\contentsline {subsection}{\numberline {2.0.1}Related work with Dimensionality Reduction}{8}{subsection.2.0.1}
+\contentsline {subsubsection}{Principle Component Analysis}{9}{section*.2}
+\contentsline {subsubsection}{Linear Discriminant Analysis}{9}{section*.3}
+\contentsline {subsubsection}{Limitation of PCA \& LDA}{9}{section*.4}
+\contentsline {subsubsection}{Principle Component Analysis for Streaming data}{10}{section*.5}
+\contentsline {subsubsection}{Linear Discriminant Analysis for Streaming data}{11}{section*.6}
+\contentsline {subsubsection}{QR decomposition}{11}{section*.7}
+\contentsline {subsubsection}{Fast Online incremental learning on mixture streaming data}{11}{section*.8}
+\contentsline {paragraph}{Fast Batch Linear Discriminant Analysis:}{12}{section*.9}
+\contentsline {paragraph}{Incremental Linear Discriminant Analysis:}{12}{section*.10}
+\contentsline {subsection}{\numberline {2.0.2}Related work with Entropy Minimisation Algorithm:}{14}{subsection.2.0.2}
+\contentsline {subsubsection}{Entropy Minimization}{15}{section*.11}
+\contentsline {subsubsection}{Travelling salesman problem solver}{15}{section*.12}
+\contentsline {subsubsection}{Hierarchical clustering}{15}{section*.13}
+\contentsline {subsubsection}{Low-dimensional projection algorithm}{15}{section*.14}
+\contentsline {subsubsection}{Sugiyama's algorithm}{16}{section*.15}
+\contentsline {subsubsection}{Entropy-Minimization-based data reordering}{16}{section*.16}
+\contentsline {paragraph}{Differential Predictive Coding:}{17}{section*.17}
+\contentsline {paragraph}{Entropy Minimization Reordering:}{17}{section*.18}
+\contentsline {paragraph}{TSP-means:}{18}{section*.19}
+\contentsline {chapter}{\numberline {3}Solution}{19}{chapter.3}
+\contentsline {subsection}{\numberline {3.0.1}Selection of Data Sets}{19}{subsection.3.0.1}
+\contentsline {subsection}{\numberline {3.0.2}Define Data Model}{19}{subsection.3.0.2}
+\contentsline {subsection}{\numberline {3.0.3}IFLDA/QR algorithm}{20}{subsection.3.0.3}
+\contentsline {subsection}{\numberline {3.0.4}Data Visualization}{22}{subsection.3.0.4}
+\contentsline {subsection}{\numberline {3.0.5}Design Framework}{22}{subsection.3.0.5}
+\contentsline {subsubsection}{List of Requirements }{22}{section*.20}
+\contentsline {subsubsection}{Architecture Diagram}{23}{section*.21}
+\contentsline {subsubsection}{Sequence Diagram}{25}{section*.22}
+\contentsline {paragraph}{Selection of Data Type: }{25}{section*.23}
+\contentsline {paragraph}{Show Visualization based on time interval:}{25}{section*.24}
+\contentsline {paragraph}{Selection of Data Set:}{25}{section*.25}
+\contentsline {paragraph}{Evaluation Information:}{27}{section*.26}
+\contentsline {paragraph}{Add new Dataset:}{27}{section*.27}
+\contentsline {chapter}{\numberline {4}Evaluation}{28}{chapter.4}
+\contentsline {chapter}{\numberline {5}Timeplan}{30}{chapter.5}

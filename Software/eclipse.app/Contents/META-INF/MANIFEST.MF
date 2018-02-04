@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_101 (Oracle Corporation)
+
+Name: Resources/icon.icns
+SHA-256-Digest: NNpeHPyRIdSaGCN4C7K6hM8kIKDq2yWnUNkwo5ETaXs=
+
+Name: MacOS/eclipse
+SHA-256-Digest: 6fvW+gOCXnrCJ8RndUQAiUpwbACiR+J4Z1j52XTgR8A=
+
+Name: Info.plist
+SHA-256-Digest: xkiva+0no2pBos1Ywsxffav1cBzapJrGB69nc8HfYsc=
+

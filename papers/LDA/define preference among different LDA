@@ -1,0 +1,7 @@
+Incremental Linear Discriminant Analysis : used eigenspace so slow
+Deep Linear Discriminant Analysis.pdf : nothing about the incremental
+Fast online incremental learning on mixture streaming data : matlab code + recent paper
+IDR QR An Incremental Dimension Reduction Algorithm via QR Decomposition : already found some limitation in another paper
+Least square Incremental Linear Discriminant Analysis.pdf : dataset example not shown in streaming way
+Supervised Dimensionality Reduction on Streaming Data : handling the delete part as well but shouldnt sliding window do that on behalf?
+Incremental Linear Discriminant Analysis__A fast algorithm and comparisons.pdf : second choice

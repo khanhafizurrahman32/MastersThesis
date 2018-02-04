@@ -1,0 +1,171 @@
+\begin{thebibliography}{}
+
+\bibitem[p30, 2017]{p301}
+ (2017).
+\newblock {Youtube Company Statistics}.
+\newblock \url{http://www.statisticbrain.com/youtube-statistics/}.
+
+\bibitem[Abdi and Williams, 2010]{p314}
+Abdi, H. and Williams, L.~J. (2010).
+\newblock Principal component analysis.
+\newblock {\em Wiley Interdisciplinary Reviews: Computational Statistics},
+  2(4):433--459.
+
+\bibitem[Artac et~al., 2002]{p315}
+Artac, M., Jogan, M., and Leonardis, A. (2002).
+\newblock Incremental pca for on-line visual learning and recognition.
+\newblock In {\em Object recognition supported by user interaction for service
+  robots}, volume~3, pages 781--784 vol.3.
+
+\bibitem[Babcock et~al., 2002]{p306}
+Babcock, B., Babu, S., Datar, M., Motwani, R., and Widom, J. (2002).
+\newblock Models and issues in data stream systems.
+\newblock In {\em Proceedings of the Twenty-first ACM SIGMOD-SIGACT-SIGART
+  Symposium on Principles of Database Systems}, PODS '02, pages 1--16, New
+  York, NY, USA. ACM.
+
+\bibitem[Bar-Joseph et~al., 2002]{p311}
+Bar-Joseph, Z., Demaine, E.~D., Gifford, D.~K., Hamel, A.~M., Jaakkola, T.~S.,
+  and Srebro, N. (2002).
+\newblock {\em K-ary Clustering with Optimal Leaf Ordering for Gene Expression
+  Data}, pages 506--520.
+\newblock Springer Berlin Heidelberg, Berlin, Heidelberg.
+
+\bibitem[Chandrasekaran et~al., 1997]{1thesis0}
+Chandrasekaran, S., Manjunath, B., Wang, Y., Winkeler, J., and Zhang, H.
+  (1997).
+\newblock An eigenspace update algorithm for image analysis.
+\newblock {\em Graphical Models and Image Processing}, 59(5):321 -- 332.
+
+\bibitem[Chu et~al., 2015]{p316}
+Chu, D., Liao, L.~Z., Ng, M. K.~P., and Wang, X. (2015).
+\newblock Incremental linear discriminant analysis: A fast algorithm and
+  comparisons.
+\newblock {\em IEEE Transactions on Neural Networks and Learning Systems},
+  26(11):2716--2735.
+
+\bibitem[Cox and Ellsworth, 1997]{p303}
+Cox, M. and Ellsworth, D. (1997).
+\newblock Application-controlled demand paging for out-of-core visualization.
+\newblock In {\em Proceedings of the 8th Conference on Visualization '97}, VIS
+  '97, pages 235--ff., Los Alamitos, CA, USA. IEEE Computer Society Press.
+
+\bibitem[Djuric and Vucetic, 2013]{1thesis3}
+Djuric, N. and Vucetic, S. (2013).
+\newblock Efficient visualization of large-scale data tables through reordering
+  and entropy minimization.
+\newblock In {\em 2013 IEEE 13th International Conference on Data Mining},
+  pages 121--130.
+
+\bibitem[Duda et~al., 2000]{p313}
+Duda, R.~O., Hart, P.~E., and Stork, D.~G. (2000).
+\newblock {\em Pattern Classification (2Nd Edition)}.
+\newblock Wiley-Interscience.
+
+\bibitem[G. and Onana, 2017]{pf01}
+G., F.~G. and Onana, C.~A. (2017).
+\newblock High dimensional data visualization: Advances and challenges.
+\newblock {\em International Journal of Computer Applications}, 162(10):23--27.
+
+\bibitem[Hahsler et~al., 2008]{p308}
+Hahsler, M., Hornik, K., and Buchta, C. (2008).
+\newblock Getting things in order: An introduction to the {R} package
+  seriation.
+\newblock {\em Journal of Statistical Software}, 25(3):1--34.
+
+\bibitem[Hall et~al., 1998]{thesis9}
+Hall, P.~M., Marshall, D., and Martin, R.~R. (1998).
+\newblock Incremental eigenanalysis for classification.
+\newblock In {\em in British Machine Vision Conference}, pages 286--295.
+
+\bibitem[Kim et~al., 2011]{p317}
+Kim, T.-K., Stenger, B., Kittler, J., and Cipolla, R. (2011).
+\newblock Incremental linear discriminant analysis using sufficient spanning
+  sets and its applications.
+\newblock {\em International Journal of Computer Vision}, 91(2):216--232.
+
+\bibitem[Laney, 2001]{p305}
+Laney, D. (2001).
+\newblock {3D} data management: Controlling data volume, velocity, and variety.
+\newblock Technical report, META Group.
+
+\bibitem[Li et~al., 2003]{thesis4}
+Li, Y., Xu, L.~Q., Morphett, J., and Jacobs, R. (2003).
+\newblock An integrated algorithm of incremental and robust pca.
+\newblock In {\em Proceedings 2003 International Conference on Image Processing
+  (Cat. No.03CH37429)}, volume~1.
+
+\bibitem[M\"{a}kinen and Siirtola, 2000]{p312}
+M\"{a}kinen, E. and Siirtola, H. (2000).
+\newblock Reordering the reorderable matrix as an algorithmic problem.
+\newblock In {\em Proceedings of the First International Conference on Theory
+  and Application of Diagrams}, Diagrams '00, pages 453--467, London, UK, UK.
+  Springer-Verlag.
+
+\bibitem[Pang et~al., 2005]{1thesis2}
+Pang, S., Ozawa, S., and Kasabov, N. (2005).
+\newblock Incremental linear discriminant analysis for classification of data
+  streams.
+\newblock {\em IEEE Transactions on Systems, Man, and Cybernetics, Part B
+  (Cybernetics)}, 35(5):905--914.
+
+\bibitem[ur~Rehman et~al., 2016]{p307}
+ur~Rehman, M.~H., Liew, C.~S., Abbas, A., Jayaraman, P.~P., Wah, T.~Y., and
+  Khan, S.~U. (2016).
+\newblock Big data reduction methods: A survey.
+\newblock {\em Data Science and Engineering}, 1(4):265--284.
+
+\bibitem[Wang et~al., 2017]{p401}
+Wang, Y., Fan, X., Luo, Z., Wang, T., Min, M., and Luo, J. (2017).
+\newblock Fast online incremental learning on mixture streaming data.
+\newblock In {\em AAAI}, pages 2739--2745.
+
+\bibitem[Ward and Barker, 2013]{p304}
+Ward, J.~S. and Barker, A. (2013).
+\newblock Undefined by data: {A} survey of big data definitions.
+\newblock {\em CoRR}, abs/1309.5821.
+
+\bibitem[Weng et~al., 2003]{thesis5}
+Weng, J., Zhang, Y., and Hwang, W.-S. (2003).
+\newblock Candid covariance-free incremental principal component analysis.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  25(8):1034--1040.
+
+\bibitem[Wilkinson and Friendly, 2009]{p310}
+Wilkinson, L. and Friendly, M. (2009).
+\newblock The history of the cluster heat map.
+\newblock {\em The American Statistician}, 63(2):179--184.
+
+\bibitem[Yan et~al., 2006]{thesis1}
+Yan, J., Zhang, B., Liu, N., Yan, S., Cheng, Q., Fan, W., Yang, Q., Xi, W., and
+  Chen, Z. (2006).
+\newblock Effective and efficient dimensionality reduction for large-scale and
+  streaming data preprocessing.
+\newblock {\em IEEE Trans. on Knowl. and Data Eng.}, 18(3):320--333.
+
+\bibitem[Ye et~al., 2005]{thesis2}
+Ye, J., Li, Q., Xiong, H., Park, H., Janardan, R., and Kumar, V. (2005).
+\newblock Idr/qr: an incremental dimension reduction algorithm via qr
+  decomposition.
+\newblock {\em IEEE Transactions on Knowledge and Data Engineering},
+  17(9):1208--1222.
+
+\bibitem[Ye et~al., 2007]{thesis3}
+Ye, M., Li, X., and Orlowska, M.~E. (2007).
+\newblock Supervised dimensionality reduction on streaming data.
+\newblock In {\em Fourth International Conference on Fuzzy Systems and
+  Knowledge Discovery (FSKD 2007)}, volume~1, pages 674--678.
+
+\bibitem[Young et~al., 2005]{p309}
+Young, S., Liu, L., Hawkins, D., and Niermann, S. (2005).
+\newblock Niermann, s. (2005), {"}optimizing the ordering of tables with
+  evolutionary computation,{"} the american statistician, 59, 41-46: Comment by
+  young, liu, and hawkins and reply [2] (multiple letters).
+\newblock {\em American Statistician}, 59(4):353--354.
+
+\bibitem[Zicari, 2013]{p302}
+Zicari, R.~V. (2013).
+\newblock Big data computing and clouds: Trends and future directions.
+\newblock pages 103 -- 128.
+
+\end{thebibliography}

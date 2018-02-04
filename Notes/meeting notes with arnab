@@ -38,3 +38,18 @@ date 14.08
 5. eastablished technology.
 6. mail deya for nonlinear (TO do)
 7. supposed to get a mail from arnab on the meaning of i of the em ordering algorithm
+
+
+date 23.08
+*goal
+*why not existing algo works
+*approach
+
+date 08.09
+* yarke mail by arnab
+* column reordering is useful for in terms of visualisation
+* establish a relationship between dimensionality reduction and column reordering
+* drawback of dimensionality reduction is information loss
+* goal : 	1. why its not ideal approach
+		 	2. what is is proposed solution and implementation
+		 	3. evaluation of the solution for example streaming dataset.

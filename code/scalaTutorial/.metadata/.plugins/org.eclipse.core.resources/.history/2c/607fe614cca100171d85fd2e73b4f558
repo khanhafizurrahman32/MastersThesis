@@ -1,0 +1,5 @@
+package org.riad.examples.streaming
+
+object NetworkWordCount {
+  
+}

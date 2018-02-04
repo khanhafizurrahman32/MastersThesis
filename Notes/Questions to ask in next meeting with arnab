@@ -27,6 +27,14 @@ non-linear dimensionality reduction technique :
 1. Locally linear embedding
 2. stochastic neighbourhood embedding
 
-preparation for 18.08
+preparation for 23.08
+both 1 and 2 are approach to select feature
+1. new algo for the feature selection (paper: Feature-Based Data Stream Clustering)
+2. to do : A Framework for Projected Clustering of High Dimensional Data Streams
+3. to do : Features selection for clustering - A filter solution
+4. Supervised Dimensionality Reduction on Streaming Data : mathematical part
+5. autoencoder
+6. https://scholar.google.de/scholar?q=related:Q9nc0GKB3pIJ:scholar.google.com/&hl=en&as_sdt=0,5&sciodt=0,5
 
-1. new algo for the feature selection (paper: Feature-Based Data Stream Clustering )
+preparation for 24.08
+1. IS EM ordering also a supervised?

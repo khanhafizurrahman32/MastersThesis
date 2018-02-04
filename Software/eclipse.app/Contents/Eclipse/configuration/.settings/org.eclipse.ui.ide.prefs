@@ -1,0 +1,6 @@
+MAX_RECENT_WORKSPACES=10
+RECENT_WORKSPACES=/Users/khanhafizurrahman/Desktop/Thesis/code/scalaTutorial/bigdata-spark-scala\n/Users/khanhafizurrahman/Desktop/fraunhofer/codes\n/Users/khanhafizurrahman/Desktop/Thesis/code/scalaTutorial/scala-workspace\n/Users/khanhafizurrahman/Desktop/Thesis/code/scalaTutorial
+RECENT_WORKSPACES_PROTOCOL=3
+SHOW_RECENT_WORKSPACES=false
+SHOW_WORKSPACE_SELECTION_DIALOG=true
+eclipse.preferences.version=1

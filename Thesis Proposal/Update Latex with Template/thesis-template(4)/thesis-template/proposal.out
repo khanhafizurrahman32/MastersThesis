@@ -1,0 +1,19 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Motivation}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Goals of the thesis}{chapter.1}% 3
+\BOOKMARK [2][-]{subsection.1.2.1}{Selection of Dataset}{section.1.2}% 4
+\BOOKMARK [2][-]{subsection.1.2.2}{Define Data Model}{section.1.2}% 5
+\BOOKMARK [2][-]{subsection.1.2.3}{Data Preprocessing}{section.1.2}% 6
+\BOOKMARK [2][-]{subsection.1.2.4}{Visualization}{section.1.2}% 7
+\BOOKMARK [2][-]{subsection.1.2.5}{Evaluation}{section.1.2}% 8
+\BOOKMARK [0][-]{chapter.2}{Related Work}{}% 9
+\BOOKMARK [1][-]{subsection.2.0.1}{Related work with Dimensionality Reduction}{chapter.2}% 10
+\BOOKMARK [2][-]{subsection.2.0.2}{Related work with Entropy Minimisation Algorithm:}{subsection.2.0.1}% 11
+\BOOKMARK [0][-]{chapter.3}{Solution}{}% 12
+\BOOKMARK [1][-]{subsection.3.0.1}{Selection of Data Sets}{chapter.3}% 13
+\BOOKMARK [2][-]{subsection.3.0.2}{Define Data Model}{subsection.3.0.1}% 14
+\BOOKMARK [2][-]{subsection.3.0.3}{IFLDA/QR algorithm}{subsection.3.0.1}% 15
+\BOOKMARK [2][-]{subsection.3.0.4}{Data Visualization}{subsection.3.0.1}% 16
+\BOOKMARK [2][-]{subsection.3.0.5}{Design Framework}{subsection.3.0.1}% 17
+\BOOKMARK [0][-]{chapter.4}{Evaluation}{}% 18
+\BOOKMARK [0][-]{chapter.5}{Timeplan}{}% 19

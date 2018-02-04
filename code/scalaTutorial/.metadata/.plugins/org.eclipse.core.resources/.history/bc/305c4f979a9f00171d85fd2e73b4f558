@@ -1,0 +1,7 @@
+package examplesfromMelvinChannel
+
+import org.apache.spark
+
+object settingUpYourDevelopmentSimpleApp {
+  
+}

@@ -1,0 +1,5 @@
+package org.riad.testing.streamingWorkCount
+
+object countWordsReceivedFromLocalhost {
+  
+}

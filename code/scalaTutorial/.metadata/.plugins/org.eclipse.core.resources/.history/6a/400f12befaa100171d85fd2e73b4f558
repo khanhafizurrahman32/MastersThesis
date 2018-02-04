@@ -1,0 +1,5 @@
+package org.apache.examples
+
+object SimpleApp {
+  
+}

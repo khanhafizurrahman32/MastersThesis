@@ -1,6 +1,11 @@
-important notes:
-1. PCA should run on the training set
-2. bad use of pca is to prevent overfitting 
+important papers : 
+Data Stream Clustering: Challenges and Issues Madjid Khalilian, Norwati Mustapha
+Feature-Based Data Stream Clustering
 
-clustering means reduce number of examples.
-dimensionality reduction means reduce number of dimensions
+important notes:
+
+*. PCA should run on the training set
+*. bad use of pca is to prevent overfitting 
+
+*.clustering means reduce number of examples.
+*.dimensionality reduction means reduce number of dimensions

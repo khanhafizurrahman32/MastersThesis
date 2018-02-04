@@ -1,0 +1,30 @@
+\chapter{Evaluation}
+\label{cha:eval}
+
+%\begin{itemize}
+%\item In the proposal: describe the data sets and measures which you plan
+%      to use in the evaluation. Make sure that the resources (data, users, etc.)
+%      which are required for the evaluation are really available.
+%\item In the thesis: describe the data sets and measures which you have used.
+%      Give the results in form of diagrams (e.g., Excel or Gnuplot). Discuss
+%      different variants of your solutions and different parameter settings.
+%     If available, compare your results with an existing approach. Important:
+%      Also negative results are results: ``The approach did not work for this
+%      data set because ...'' This is important information, because nobody wants
+%      to do again the same experiments as you already did. In case of performance
+%      numbers, give a detailed description of the hardware which was used to do
+%      the experiments. Discuss the results (what is good, what is bad).
+%\end{itemize}
+We will evaluate the visualization of framework through different ways. The evaluation will help us to measure the quality of our framework. The rate of data arrival is very high in stream data. Therefore it's a big challenge for the framework to adopt itself with the flow of data. Secondly, the presence of data will be for a limited time and there is no chance of data availability for the second time so it's also a challenge for the framework to visualize the correct result just by using once. Last but not the least, data will be unpredictable and unbounded in structure therefore framework need to be stable from that perspective as well.\\\\
+As previously mentioned, evaluation can be done in two different ways: Quantitative evaluation, Qualitative evaluation. Here, we will focus more on the Qualitative evaluation through comparative methodology. The first comparison will be regarding the studying of effect of data reduction through visualization. Our framework will be able to give the visualization without applying the data reduction framework and after applying data reduction. Hence, information loss is must while applying data reduction; we will calculate the Entropy matrix for calculating the amount of information loss.\\\\
+Our second evaluation will be done regarding the comparison of performance between using incremental data and also the streaming data. Our framework will be flexible to use data in both ways. Through this, we can show the effect of interrupting continuous flow of data to the visualization. To calculate this we will use the Earth-Mover distance matrix for that. \\\\
+Our framework should be scalable enough to adopt as the number of dimensions increase. The framework will be tested with the excel of dimensions. \\\\
+For evaluation, the framework will be tested with the expert user from domain field. We will observe how the expert user is gaining the knowledge or communicated through out the visualization and how they understand the inner meaning of the visualization. The framework will also be tested by giving a new data set from the user and see the performance of the framework.\\\\
+
+The following list contains the evaluation criteria of our framework.
+\begin{enumerate}
+	\item Studying the effect of data reduction on the visualization quality. 
+	\item Comparison of performance of the algorithm between using incremental data and streaming data
+	\item Scalability of the Framework with the increase of dimensions.
+	\item Calculate the evaluation matrix: Entropy calculation, Earth-Mover Distance.
+\end{enumerate}

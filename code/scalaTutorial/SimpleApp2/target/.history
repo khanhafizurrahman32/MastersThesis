@@ -1,0 +1,12 @@
+eclipse
+sbt compile
+compile
+run
+reload
+compile
+run
+reload
+exit
+compile
+run
+exit

@@ -1,0 +1,653 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdftex 2017.12.11)  12 DEC 2017 12:10
+entering extended mode
+**"H:/Thesis/Thesis Proposal/RWTH template Thesis Proposal/thesis-template/Bib.
+bib"
+
+("H:/Thesis/Thesis Proposal/RWTH template Thesis Proposal/thesis-template/Bib.b
+ib"
+! Undefined control sequence.
+l.4     howpublished = "\url
+                            {http://www.statisticbrain.com/youtube-statistic...
+
+? 
+
+Overfull \hbox (71.30167pt too wide) in paragraph at lines 1--6
+[]\tenrm @miscp301, ti-tle = Youtube Com-pany Statis-tics, year = 2017, how-pub
+-lished = "http://www.statisticbrain.com/youtube-|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm @
+.\tenrm m
+.\tenrm i
+.\tenrm s
+.etc.
+
+
+Overfull \hbox (40.24619pt too wide) in paragraph at lines 31--43
+\tenrm of Big Data Def-i-ni-tions, jour-nal = CoRR, vol-ume = abs/1309.5821, ye
+ar = 2013, url = http://arxiv.org/abs/1309.5821,|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm o
+.\tenrm f
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.\tenrm B
+.\tenrm i
+.etc.
+
+
+Overfull \hbox (30.46838pt too wide) in paragraph at lines 31--43
+\tenrm times-tamp = Wed, 07 Jun 2017 14:42:29 +0200, biburl = http://dblp.uni-t
+rier.de/rec/bib/journals/corr/WardB13a,|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm t
+.\tenrm i
+.\tenrm m
+.\tenrm e
+.\tenrm s
+.etc.
+
+
+Overfull \hbox (330.94135pt too wide) in paragraph at lines 44--58
+[]\tenrm @techreportp305, added-at = 2013-03-15T10:26:13.000+0100, au-thor = La
+ney, Dou-glas, biburl = https://www.bibsonomy.org/bibtex/263868097d6e1998de3d88
+fcbb7670ca6/sb3000,|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm @
+.\tenrm t
+.\tenrm e
+.\tenrm c
+.etc.
+
+
+Overfull \hbox (82.8147pt too wide) in paragraph at lines 44--58
+\tenrm in-sti-tu-tion = META Group, in-ter-hash = 742811cb00b303261f79a98e9b80b
+f49, in-tra-hash = 63868097d6e1998de3d88fcbb7670ca6,|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\tenrm i
+.\tenrm n
+.\discretionary
+..\tenrm -
+.\tenrm s
+.\tenrm t
+.etc.
+
+
+Overfull \hbox (2.41269pt too wide) in paragraph at lines 44--58
+\tenrm laney/files/2012/01/ad949-3D-Data-Management-Controlling-Data-Volume-Vel
+ocity-and-Variety.pdf, year =|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm l
+.\tenrm a
+.\tenrm n
+.\tenrm e
+.\tenrm y
+.etc.
+
+
+Overfull \hbox (5.44046pt too wide) in paragraph at lines 97--165
+\tenrm sis;scatter ma-tri-ces;singular value de-com-po-si-tion;Algorithm de-sig
+n and anal-y-sis;Computational ef-fi-ciency;Data|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\tenrm s
+.\tenrm i
+.\tenrm s
+.\tenrm ;
+.\tenrm s
+.etc.
+
+
+Overfull \hbox (4.66272pt too wide) in paragraph at lines 97--165
+\tenrm min-ing;Data pre-pro-cess-ing;Databases;Error anal-y-sis;Information re-
+trieval;Linear dis-crim-i-nant anal-y-sis;Matrix|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\tenrm m
+.\tenrm i
+.\tenrm n
+.\discretionary
+..\tenrm -
+.\tenrm i
+.etc.
+
+
+Overfull \hbox (3.02385pt too wide) in paragraph at lines 97--165
+\tenrm Value De-com-po-si-tion (SVD).;incremental learn-ing;linear dis-crim-i-n
+ant anal-y-sis, doi=10.1109/TKDE.2005.148,|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm V
+.\kern-0.83334
+.\tenrm a
+.\tenrm l
+.\tenrm u
+.etc.
+
+
+Overfull \hbox (31.1351pt too wide) in paragraph at lines 97--165
+\tenrm meth-ods;Principal com-po-nent anal-y-sis;Robustness, doi=10.1109/ICIP.2
+003.1246944, ISSN=1522-4880, month=Sep,|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm m
+.\tenrm e
+.\tenrm t
+.\tenrm h
+.\discretionary
+..\tenrm -
+.etc.
+
+
+Overfull \hbox (30.56538pt too wide) in paragraph at lines 97--165
+\tenrm time sys-tems;Gaussian distribution;appearance-based im-age anal-y-sis t
+ech-niques;candid covariance-free IPCA;candid|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\tenrm t
+.\tenrm i
+.\tenrm m
+.\tenrm e
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.etc.
+
+
+Overfull \hbox (18.74605pt too wide) in paragraph at lines 97--165
+\tenrm dimensional im-age vec-tors;image anal-y-sis;mean of observations;real-t
+ime ap-pli-ca-tions;statistical ef-fi-ciency;Biology|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\tenrm d
+.\tenrm i
+.\tenrm m
+.\tenrm e
+.\tenrm n
+.etc.
+
+
+Overfull \hbox (1.99614pt too wide) in paragraph at lines 97--165
+\tenrm y-sis;Image stor-age;Pixel;Principal com-po-nent anal-y-sis, doi=10.1109
+/TPAMI.2003.1217609, ISSN=0162-8828,|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm y
+.\discretionary
+..\tenrm -
+.\tenrm s
+.\tenrm i
+.\tenrm s
+.etc.
+
+
+Overfull \hbox (55.32948pt too wide) in paragraph at lines 97--165
+\tenrm ple com-po-nent anal-y-sis;linear dis-crim-i-nant anal-y-sis;pattern rec
+og-ni-tion;principle com-po-nent anal-y-sis;Algorithms;Artificial|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\tenrm p
+.\tenrm l
+.\tenrm e
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.\tenrm c
+.etc.
+
+[1{C:/Users/rahman/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.203 doi={10.1007/3-540-61510-5_
+                                 41},
+? 
+! Extra }, or forgotten $.
+l.203 doi={10.1007/3-540-61510-5_41}
+                                    ,
+? 
+! Extra }, or forgotten $.
+l.205 }
+       
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.206 
+      
+? 
+
+Overfull \hbox (11.10612pt too wide) in paragraph at lines 166--206
+\tenrm ordering;TSP heuris-tic;data dis-tri-bu-tion;entropy min-i-miza-tion;fin
+ancial data set anal-y-sis;heat map;information-|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\tenrm o
+.\tenrm r
+.\tenrm d
+.\tenrm e
+.\tenrm r
+.etc.
+
+
+Overfull \hbox (4.96817pt too wide) in paragraph at lines 166--206
+\tenrm ble;predictive cod-ing residual;real-world traf-fic anal-y-sis;reorderin
+g;rescaling columns;time com-plex-ity;traveling|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\tenrm b
+.\tenrm l
+.\tenrm e
+.\tenrm ;
+.\tenrm p
+.etc.
+
+
+Overfull \hbox (36.74614pt too wide) in paragraph at lines 166--206
+\tenrm sales-man prob-lem;Cities and towns;Clustering al-go-rithms;Data vi-su-a
+l-iza-tion;Entropy;Heating;Minimization;Principal|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\tenrm s
+.\tenrm a
+.\tenrm l
+.\tenrm e
+.\tenrm s
+.etc.
+
+
+Overfull \hbox (1.07935pt too wide) in paragraph at lines 166--206
+\tenrm com-po-nent anal-y-sis;data re-order-ing;data se-ri-ation;data visualiza
+tion;heatmap;large-scale data;traveling sales-|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\tenrm c
+.\tenrm o
+.\tenrm m
+.\discretionary
+..\tenrm -
+.\tenrm p
+.etc.
+
+
+Overfull \hbox (6.16266pt too wide) in paragraph at lines 166--206
+\tenrm crim-i-nant anal-y-sis;streaming data;supervised di-men-sion-al-ity re-d
+uc-tion;Australia;Computer sci-ence;Covariance|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\tenrm c
+.\tenrm r
+.\tenrm i
+.\tenrm m
+.\discretionary
+..\tenrm -
+.etc.
+
+
+Overfull \hbox (1.38496pt too wide) in paragraph at lines 166--206
+\tenrm ma-trix;Data anal-y-sis;Data en-gi-neer-ing;Eigenvalues and eigen-func-t
+ions;Information anal-y-sis;Information tech-|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\tenrm m
+.\tenrm a
+.\discretionary
+..\tenrm -
+.\tenrm t
+.\tenrm r
+.etc.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+1.94444)x469.75499, glue set 9.20255
+.\glue(\topskip) 3.05556
+.\hbox(6.94444+1.94444)x469.75499, glue set 0.66164
+..\tenrm b
+..\tenrm a
+..\tenrm s
+..\tenrm e
+..\tenrm d
+..etc.
+.\glue(\baselineskip) 3.11111
+.\hbox(6.94444+1.94444)x469.75499, glue set - 0.66377
+..\tenrm e
+..\tenrm r
+..\discretionary
+...\tenrm -
+..\tenrm r
+..\tenrm o
+..etc.
+.\penalty 100
+.etc.
+
+ [2]
+Overfull \hbox (99.85747pt too wide) in paragraph at lines 207--220
+\tenrm "http://dx.doi.org/10.1016/0022-247X(85)90131-3", url = "http://www.scie
+ncedirect.com/science/article/pii/0022247X85901313",|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm "
+.\tenrm h
+.\kern-0.27779
+.\tenrm t
+.\tenrm t
+.etc.
+
+
+Overfull \hbox (185.74655pt too wide) in paragraph at lines 251--263
+\tenrm issn = "1077-3169", doi = "http://dx.doi.org/10.1006/gmip.1997.0425", ur
+l = "http://www.sciencedirect.com/science/article/pii/S1077316997904251",|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm i
+.\tenrm s
+.\tenrm s
+.\tenrm n
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.etc.
+
+
+Overfull \hbox (37.35721pt too wide) in paragraph at lines 266--291
+\tenrm liza-tion tech-nique;online computation;rank-one eigen-struc-ture up-dat
+-ing;roundoff er-ror buildup;signal processing;time-|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\tenrm l
+.\tenrm i
+.\tenrm z
+.\tenrm a
+.\discretionary
+..\tenrm -
+.etc.
+
+
+Overfull \hbox (3.05159pt too wide) in paragraph at lines 266--291
+\tenrm es-ti-ma-tion;Eigenvalues and eigen-func-tions;Sensor ar-rays;Signal pro
+-cess-ing;Signal pro-cess-ing al-go-rithms;Signal|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\tenrm e
+.\tenrm s
+.\discretionary
+..\tenrm -
+.\tenrm t
+.\tenrm i
+.etc.
+
+[3]
+! Undefined control sequence.
+l.320  howpublished = "\url
+                           {https://aws.amazon.com/streaming-data/}"
+? 
+
+Overfull \hbox (52.69046pt too wide) in paragraph at lines 317--322
+[]\tenrm @misc1thesis7, ti-tle = What is Stream-ing Data?, year = 2017, how-pub
+-lished = "https://aws.amazon.com/streaming-|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm @
+.\tenrm m
+.\tenrm i
+.\tenrm s
+.etc.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.339 doi="10.1007/978-3-642-22362-4_
+                                     19",
+? 
+! Extra }, or forgotten $.
+l.341 }
+       
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.342 
+      
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.369 ...//michael.hahsler.net/research/seriation_
+                                                  JSS2008/seriation.pdf},
+? 
+! Extra }, or forgotten $.
+l.369 ...research/seriation_JSS2008/seriation.pdf}
+                                                  ,
+? 
+! Extra }, or forgotten $.
+l.371 }
+       
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.372 
+      
+? 
+
+Overfull \hbox (88.82356pt too wide) in paragraph at lines 343--372
+\tenrm nopdf = http://michael.hahsler.net/research/seriation$[]\teni SS\tenrm 2
+008\teni =seriation:pdf; category \tenrm = []$ |
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm n
+.\tenrm o
+.\tenrm p
+.\kern0.27779
+.\tenrm d
+.etc.
+
+! Misplaced alignment tab character &.
+l.395 publisher = {Taylor &
+                            Francis},
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.418 doi="10.1007/3-540-45784-4_
+                                 39",
+? 
+! Extra }, or forgotten $.
+l.420 }
+       
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.421 
+      
+? 
+[4]
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no © in font cmr10!
+
+! Misplaced alignment tab character &.
+l.451 publisher = {John Wiley &
+                                Sons, Inc.},
+? 
+
+Overfull \hbox (36.05171pt too wide) in paragraph at lines 460--472
+\tenrm sis;online vi-sual learn-ing;simultaneous learn-ing;visual recog-ni-tion
+;Educational pro-grams;Image databases;Information|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\tenrm s
+.\tenrm i
+.\tenrm s
+.\tenrm ;
+.\tenrm o
+.etc.
+
+
+Overfull \hbox (11.85504pt too wide) in paragraph at lines 473--485
+\tenrm com-plex-ity;matrix de-com-po-si-tion;statistical anal-y-sis;ILDA algori
+thm;LDA-QR;ULDA al-go-rithm;computational|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\tenrm c
+.\tenrm o
+.\tenrm m
+.\discretionary
+..\tenrm -
+.\tenrm p
+.etc.
+
+
+Overfull \hbox (53.74611pt too wide) in paragraph at lines 473--485
+\tenrm com-plex-ity;Economics;Eigenvalues and eigen-func-tions;Linear dis-crim-
+i-nant anal-y-sis;Linear sys-tems;Training;Classification|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\tenrm c
+.\tenrm o
+.\tenrm m
+.\discretionary
+..\tenrm -
+.\tenrm p
+.etc.
+
+
+Overfull \hbox (24.77396pt too wide) in paragraph at lines 473--485
+\tenrm y-sis (LDA);linear dis-crim-i-nant anal-y-sis (LDA)., doi=10.1109/TNNLS.
+2015.2391201, ISSN=2162-237X, month=11, |
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm y
+.\discretionary
+..\tenrm -
+.\tenrm s
+.\tenrm i
+.\tenrm s
+.etc.
+
+
+Overfull \hbox (5.82933pt too wide) in paragraph at lines 505--512
+[]\tenrm @inproceedingsp401, ti-tle=Fast On-line In-cre-men-tal Learn-ing on Mi
+x-ture Stream-ing Data., au-thor=Wang,|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm @
+.\tenrm i
+.\tenrm n
+.\tenrm p
+.etc.
+
+[5]
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.527 	issue_
+             date = {March 2017},
+? 
+! Extra }, or forgotten $.
+l.539 }
+       
+? 
+)
+*
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+<*> 
+    
+? 
+
+Overfull \hbox (0.32312pt too wide) in paragraph at lines 523--0
+\tenrm su-al-iza-tion: Ad-vances and Chal-lenges, jour-nal = In-ter-na-tional J
+our-nal of Com-puter Ap-pli-ca-tions, issue$[]\teni ate \tenrm =|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\tenrm s
+.\tenrm u
+.\discretionary
+..\tenrm -
+.\tenrm a
+.\tenrm l
+.etc.
+
+
+Overfull \hbox (52.3682pt too wide) in paragraph at lines 523--0
+[]\teni ; numpages \tenrm = 5\teni ; url \tenrm = []\teni ; doi \tenrm =|
+
+\hbox(7.5+2.5)x469.75499
+.\hbox(6.44444+0.83333)x32.2222
+..\tenrm 2
+..\tenrm 3
+..\glue(\medmuskip) 2.22217 plus 1.11108 minus 2.22217
+..\tensy  
+..\glue(\medmuskip) 2.22217 plus 1.11108 minus 2.22217
+..etc.
+.\teni ;
+.\glue(\thinmuskip) 1.66663
+.\teni n
+.\teni u
+.etc.
+
+
+Overfull \hbox (38.08191pt too wide) in paragraph at lines 523--0
+[]\teni ; publisher \tenrm = []\teni ; address \tenrm = []$ |
+
+\hbox(7.5+2.5)x469.75499
+.\hbox(7.5+2.5)x105.52711
+..\tenrm 1
+..\tenrm 0
+..\teni :
+..\tenrm 5
+..\tenrm 1
+..etc.
+.\teni ;
+.\glue(\thinmuskip) 1.66663
+.\teni p
+.\teni u
+.etc.
+
+(Please type a command or say `\end')
+*\end
+[6]
+(\end occurred inside a group at level 7)
+
+### simple group (level 7) entered at line 523 ({)
+### simple group (level 6) entered at line 401 ({)
+### simple group (level 5) entered at line 369 ({)
+### simple group (level 4) entered at line 343 ({)
+### simple group (level 3) entered at line 323 ({)
+### simple group (level 2) entered at line 203 ({)
+### simple group (level 1) entered at line 188 ({)
+### bottom level<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmm
+i10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><
+C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Progra
+m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on Bib.pdf (6 pages, 90760 bytes).
+PDF statistics:
+ 41 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

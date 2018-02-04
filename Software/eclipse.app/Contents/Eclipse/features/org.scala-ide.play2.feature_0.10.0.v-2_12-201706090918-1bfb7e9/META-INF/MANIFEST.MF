@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Built-By: wpopielarski
+Created-By: Apache Maven
+Build-Jdk: 1.8.0_101
+
+Name: META-INF/maven/org.scala-ide/org.scala-ide.play2.feature/pom.pro
+ perties
+SHA-256-Digest: 2Gy8Nm6cwy+MQzGM3Ptm+HNdTzJ01UbIphgQpbhZ8Sw=
+
+Name: META-INF/maven/org.scala-ide/org.scala-ide.play2.feature/pom.xml
+SHA-256-Digest: teb/oWGYfmdZfMk3FcoiTUMWeO4Ig88Gf2CEJkJfo3A=
+
+Name: feature.xml
+SHA-256-Digest: xLRaPM2XJjVzotayVg8QhombQiM19eGxOXVLZsR6Es4=
+
